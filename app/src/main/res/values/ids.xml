@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_Kontrol" type="id" />
+    <item name="editTextNumber_Sayi1" type="id" />
+    <item name="editTextNumber_Sayi2" type="id" />
+</resources>
